@@ -1,3 +1,2 @@
 # pokedex-startse
-Clique aqui:
-<a href='https://antoniolmcandido.github.io/pokedex/'></a>
+<a href='https://antoniolmcandido.github.io/pokedex/'>Clique Aqui</a> e veja a aplicação.
